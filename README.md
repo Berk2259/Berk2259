@@ -4,6 +4,15 @@
 💻 Interested in Software Development  
 🚀 Learning and building projects
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Berk2259&show_icons=true&theme=default)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Berk2259)
+
+
 
 <!--
 **Berk2259/Berk2259** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
