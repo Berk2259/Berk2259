@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+🎓 Computer Engineering Student  
+💻 Interested in Software Development  
+🚀 Learning and building projects
+
+
 <!--
 **Berk2259/Berk2259** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
