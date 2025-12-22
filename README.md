@@ -10,7 +10,7 @@
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Berk2259&v=1)
+![GitHub Streak](https://streak-stats.demolab.com?user=Berk2259)
 
 
 <!--
