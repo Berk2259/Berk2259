@@ -1,29 +1,43 @@
-## Hi there 👋
+# Merhaba, ben Berk 👋
 
-🎓 Computer Engineering Student  
-💻 Interested in Software Development  
-🚀 Learning and building projects
+🎓 Bilgisayar Mühendisliği Öğrencisi
+💻 Yazılım Geliştirme ile ilgileniyorum
+🚀 Yeni şeyler öğreniyor ve projeler geliştiriyorum
 
-## 📊 GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Berk2259&show_icons=true&theme=default)
+### 🔭 Şu anda üzerinde çalıştığım şeyler
+- ...
+
+### 🌱 Şu anda öğrendiklerim
+- ...
+
+### 👯 İşbirliği yapmak istediğim konular
+- ...
+
+### 💬 Bana şu konularda soru sorabilirsiniz
+- ...
+
+### 📫 Bana ulaşmak için
+- ...
+
+---
+
+## 📊 GitHub İstatistiklerim
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Berk2259&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Berk2259)
+![GitHub Streak](https://streak-stats.demolab.com?user=Berk2259&theme=default&hide_border=true)
 
+## 💻 En Çok Kullandığım Diller
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berk2259&layout=compact&theme=default&hide_border=true)
+
+---
 
 <!--
-**Berk2259/Berk2259** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Bu README GitHub profilinde görünen özel repo dosyasıdır.
+Yukarıdaki alanları (🔭, 🌱, 👯, 💬, 📫) kendi bilgilerinle doldurabilirsin.
 -->
