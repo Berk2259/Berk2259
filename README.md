@@ -21,7 +21,7 @@ Mobil uygulama geliştirme, backend teknolojileri ve modern yazılım geliştirm
 - ### 📊 3D Katkı Grafiğim
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
 
