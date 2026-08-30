@@ -18,10 +18,25 @@ Mobil uygulama geliştirme, backend teknolojileri ve modern yazılım geliştirm
 - UI/UX Tasarımı
 - Açık Kaynak Projeler
 
-- ### 📊 3D Katkı Grafiğim
+### 📊 3D Katkı Grafiğim
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" />
+</p>
+
+
+### 📈 İstatistiklerim
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Berk2259&show_icons=true&theme=github-dark-green" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Berk2259&theme=github-dark-green" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berk2259&theme=github-dark-green" />
 </p>
 
 
