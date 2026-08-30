@@ -19,8 +19,9 @@
 
 ## 🚀 Kullandığım Teknolojiler
 
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,python,postgres,firebase,react,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,python,postgres,firebase,react,git,github,vscode" />
+</p>
 
 ## 🎯 Yetenek Radarım
 
@@ -50,15 +51,11 @@
 
 ---
 
-## 📈 İstatistiklerim
-
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Berk2259&theme=github-dark-green" />
-
-
----
-
+<br/>
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Azim%20paha%20bi%C3%A7ilmezdir%3A%20%C3%87ok%20zeki%20oldu%C4%9Fumdan%20de%C4%9Fil%2C%20sorunlarla%20u%C4%9Fra%C5%9Fmaktan%20vazge%C3%A7medi%C4%9Fimden%20ba%C5%9Far%C4%B1yorum.&author=Albert%20Einstein" />
+</p>
 
+<br/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=2E9F44&height=100&section=footer)
