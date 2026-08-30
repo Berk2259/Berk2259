@@ -20,7 +20,7 @@
 ## 🚀 Kullandığım Teknolojiler
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,python,postgres,firebase,react,git,github,vscode,supabase,bitbucketwordpress" height="48" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,python,postgres,firebase,react,git,github,vscode,supabase,bitbucket,wordpress" height="48" />
 </p>
 
 ## 🎯 Yetenek Radarım
