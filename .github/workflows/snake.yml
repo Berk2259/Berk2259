@@ -26,22 +26,17 @@ jobs:
           sudo chmod -R a+rwX dist
           cat > /tmp/slow_down.py << 'EOF'
           import re
-
-          factor = 20
+          factor = 3
           paths = [
               "dist/github-contribution-grid-snake.svg",
               "dist/github-contribution-grid-snake-dark.svg",
           ]
-
           for path in paths:
               with open(path, "r", encoding="utf-8") as f:
                   content = f.read()
-
               def repl(match):
-                  return 'dur="' + str(float(match.group(1)) * factor) + 's"'
-
-              content = re.sub(r'dur="([0-9.]+)s"', repl, content)
-
+                  return str(int(int(match.group(1)) * factor)) + "ms"
+              content = re.sub(r'([0-9]+)ms', repl, content)
               with open(path, "w", encoding="utf-8") as f:
                   f.write(content)
           EOF
