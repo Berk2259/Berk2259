@@ -19,9 +19,8 @@
 
 ## 🚀 Kullandığım Teknolojiler
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,python,postgres,firebase,react,git,github,vscode" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,python,postgres,firebase,react,git,github,vscode" />
 
 ---
 
@@ -48,17 +47,20 @@
 ## 📈 İstatistiklerim
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Berk2259&show_icons=true&theme=github-dark-green" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berk2259&theme=github-dark-green" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Berk2259&theme=github-dark-green" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Berk2259&theme=react-dark&hide_border=true&color=2E9F44&line=2E9F44&point=ffffff" />
+  <img src="https://img.shields.io/github/followers/Berk2259?label=Takip%C3%A7i&style=for-the-badge&color=2E9F44" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Berk2259&theme=github-dark-green" />
-</p>
-
 ---
 
 <p align="center">
