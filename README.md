@@ -1,5 +1,9 @@
 # Merhaba, ben Berk 👋
 
+<p align="center">
+  <img src="./floating-photo.svg" width="220" />
+</p>
+
 🎓 Bilgisayar Mühendisliği öğrencisiyim.
 
 Mobil uygulama geliştirme, backend teknolojileri ve modern yazılım geliştirme süreçleriyle ilgileniyorum. Özellikle Flutter ile kullanıcı odaklı uygulamalar geliştiriyor, yeni teknolojiler öğrenerek kendimi sürekli geliştirmeye çalışıyorum.
