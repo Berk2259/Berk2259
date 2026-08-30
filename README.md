@@ -18,6 +18,12 @@ Mobil uygulama geliştirme, backend teknolojileri ve modern yazılım geliştirm
 - UI/UX Tasarımı
 - Açık Kaynak Projeler
 
+- ### 📊 3D Katkı Grafiğim
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" />
+</p>
+
 
 ## 🐍 Katkı Grafiğim
 
