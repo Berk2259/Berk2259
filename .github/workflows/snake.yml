@@ -1,5 +1,4 @@
 name: Generate Snake
-
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -7,7 +6,6 @@ on:
   push:
     branches:
       - main
-
 jobs:
   generate:
     permissions:
@@ -22,6 +20,11 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3286ff
+
+      - name: Slow down animation
+        run: |
+          sed -i -E 's/dur="([0-9.]+)s"/echo "dur=\"$(echo "\1 * 1.8" | bc)s\""/ge' dist/github-contribution-grid-snake.svg
+          sed -i -E 's/dur="([0-9.]+)s"/echo "dur=\"$(echo "\1 * 1.8" | bc)s\""/ge' dist/github-contribution-grid-snake-dark.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
