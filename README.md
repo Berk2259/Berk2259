@@ -1,7 +1,7 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=2E9F44&height=180&section=header&text=Merhaba,%20ben%20Berk%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=2E86DE&height=180&section=header&text=Merhaba,%20ben%20Berk%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=26&duration=3000&pause=1200&color=39D353&center=true&vCenter=true&width=500&height=50&lines=Mobil+Uygulama+Geli%C5%9Ftiricisi;Flutter+%26+Dart+Tutkunu;Backend+%26+API+Geli%C5%9Ftirme;S%C3%BCrekli+%C3%96%C4%9Freniyorum" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=26&duration=3000&pause=1200&color=2E86DE&center=true&vCenter=true&width=500&height=50&lines=Mobil+Uygulama+Geli%C5%9Ftiricisi;Flutter+%26+Dart+Tutkunu;Backend+%26+API+Geli%C5%9Ftirme;S%C3%BCrekli+%C3%96%C4%9Freniyorum" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 ## 🚀 Kullandığım Teknolojiler
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,python,postgres,firebase,react,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,python,postgres,firebase,react,git,github,vscode,supabase" height="48" />
 </p>
 
 ## 🎯 Yetenek Radarım
@@ -58,4 +58,4 @@
 
 <br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=2E9F44&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=2E86DE&height=100&section=footer)
