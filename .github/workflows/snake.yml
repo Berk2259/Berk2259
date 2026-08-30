@@ -27,7 +27,7 @@ jobs:
           cat > /tmp/slow_down.py << 'EOF'
           import re
 
-          factor = 3
+          factor = 20
           paths = [
               "dist/github-contribution-grid-snake.svg",
               "dist/github-contribution-grid-snake-dark.svg",
