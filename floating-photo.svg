@@ -1,0 +1,19 @@
+<svg width="220" height="260" viewBox="0 0 220 260" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .avatar {
+      animation: float 3s ease-in-out infinite;
+    }
+    @keyframes float {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(24px); }
+    }
+  </style>
+  <clipPath id="circleClip">
+    <circle cx="110" cy="100" r="90" />
+  </clipPath>
+  <image class="avatar"
+    href="https://raw.githubusercontent.com/Berk2259/Berk2259/main/photom.jpg"
+    x="20" y="10" width="180" height="180"
+    clip-path="url(#circleClip)"
+    preserveAspectRatio="xMidYMid slice" />
+</svg>
