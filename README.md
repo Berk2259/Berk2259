@@ -4,14 +4,9 @@
 
 Mobil uygulama geliştirme, backend teknolojileri ve modern yazılım geliştirme süreçleriyle ilgileniyorum. Özellikle Flutter ile kullanıcı odaklı uygulamalar geliştiriyor, yeni teknolojiler öğrenerek kendimi sürekli geliştirmeye çalışıyorum.
 
-## 🚀 Kullandığım Teknolojiler
+### 🧰 Toolbox
 
-- Flutter & Dart
-- Java
-- Python
-- PostgreSQL
-- Firebase
-- Git & GitHub
+![Skills](https://skillicons.dev/icons?i=flutter,dart,java,python,postgres,firebase,git,github,vscode)
 
 ## 📌 İlgi Alanlarım
 
