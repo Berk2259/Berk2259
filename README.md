@@ -1,4 +1,4 @@
-# Merhaba 👋 Ben Berk &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="./README.md"><img src="./btn_tr_active.png" height="26" /></a> <a href="./README.en.md"><img src="./btn_en_inactive.png" height="26" /></a>
+# Merhaba 👋 Ben Berk
 
 Bilgisayar Mühendisliği bölümünde okuyorum, Flutter ve backend geliştirme üzerine çalışıyorum.
 
