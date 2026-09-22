@@ -14,7 +14,7 @@ Bilgisayar Mühendisliği bölümünde okuyorum, Flutter ve backend geliştirme 
 
 | Mobil & Frontend | Backend & Diller | Veritabanı & Servis | Araçlar |
 |:--|:--|:--|:--|
-| <img src="https://skillicons.dev/icons?i=flutter,react,nextjs" height="40" /> | <img src="https://skillicons.dev/icons?i=dart,java,python,ts" height="40" /> | <img src="https://skillicons.dev/icons?i=postgres,firebase,supabase" height="40" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,bitbucket,wordpress,vercel" height="40" /> |
+| <img src="https://skillicons.dev/icons?i=flutter,react,nextjs" height="40" /> | <img src="https://skillicons.dev/icons?i=dart,java,python,ts" height="40" /> | <img src="https://skillicons.dev/icons?i=postgres,firebase,supabase" height="40" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,bitbucket,wordpress,vercel" height="40" /> <img src="https://raw.githubusercontent.com/usebruno/bruno/main/packages/bruno-electron/resources/icons/png/256x256.png" height="40" /> <img src="https://raw.githubusercontent.com/railwayapp/docs/main/public/android-chrome-512x512.png" height="40" /> |
 
 ### Katkı Geçmişi
 
