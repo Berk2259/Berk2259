@@ -20,11 +20,11 @@ Bilgisayar Mühendisliği bölümünde okuyorum, Flutter ve backend geliştirme 
 
 <table><tr><td>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Berk2259&theme=dark&hide_border=true" height="195" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Berk2259&theme=dark&hide_border=true&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" height="195" />
 
 </td><td>
 
-<img src="https://github-readme-stats-kappa-tawny-43.vercel.app/api?username=Berk2259&show_icons=true&theme=dark&hide_border=true" height="195" />
+<img src="https://github-readme-stats-kappa-tawny-43.vercel.app/api?username=Berk2259&show_icons=true&theme=dark&hide_border=true&title_color=A855F7&icon_color=A855F7" height="195" />
 
 </td></tr></table>
 
