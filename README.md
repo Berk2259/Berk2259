@@ -20,7 +20,7 @@ Bilgisayar Mühendisliği bölümünde okuyorum, Flutter ve backend geliştirme 
 
 <table><tr><td>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Berk2259&theme=dark&hide_border=true&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" height="195" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Berk2259&theme=dark&hide_border=true&ring=FF4500&fire=FF4500&currStreakLabel=FF4500" height="195" />
 
 </td><td>
 
