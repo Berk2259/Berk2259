@@ -1,22 +1,32 @@
 # Merhaba 👋 Ben Berk
 
-Bilgisayar Mühendisliği bölümünde okuyorum, Flutter ve backend geliştirme üzerine çalışıyorum.
+Manisa Celal Bayar Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim, Flutter ve backend geliştirme üzerine çalışıyorum.
 
 - 🎓 Bilgisayar Mühendisliği Öğrencisi
 - 📱 Flutter ile kullanıcı odaklı mobil uygulamalar geliştiriyorum
 - 🛠️ Backend tarafında Python, Java ve PostgreSQL kullanıyorum
-- 💼 Dijital Arı'da 1 yıldır stajyerlik yapıyorum
+- 💼 Dijital Arı'da 1 yıl stajyerlik yaptım
 - 📫 Bana ulaşmak için: [LinkedIn](https://www.linkedin.com/in/berk-altay-46052a374/) · [E-posta](mailto:berkaltay3435@gmail.com)
 - 🔗 [Website](https://berkaltay.com/)
 - 📍 Tekirdağ · İzmir · Manisa, Türkiye
 
-### Teknolojiler
+<br/>
 
-| Mobil & Frontend | Backend & Diller | Veritabanı & Servis | Araçlar |
-|:--|:--|:--|:--|
-| <img src="https://skillicons.dev/icons?i=flutter,react,nextjs" height="40" /> | <img src="https://skillicons.dev/icons?i=dart,java,python,ts" height="40" /> | <img src="https://skillicons.dev/icons?i=postgres,firebase,supabase" height="40" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,bitbucket,wordpress,vercel" height="40" /> |
+### 🧩 Teknolojiler
 
-### Katkı Geçmişi
+<table>
+<tr><th>Mobil & Frontend</th><th>Backend & Diller</th><th>Veritabanı & Servis</th><th>Araçlar</th></tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=flutter,react,nextjs" height="40" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=dart,java,python,ts" height="40" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres,firebase,supabase" height="40" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,bitbucket,wordpress,vercel" height="40" /></td>
+</tr>
+</table>
+
+<br/>
+
+### 📊 Katkı Geçmişi
 
 <table><tr><td>
 
@@ -34,6 +44,6 @@ Bilgisayar Mühendisliği bölümünde okuyorum, Flutter ve backend geliştirme 
 
 </td><td>
 
-<img src="https://github-readme-stats-kappa-tawny-43.vercel.app/api/top-langs?username=Berk2259&theme=dark&hide_border=true&layout=donut" height="220" />
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" height="220" />
 
 </td></tr></table>
