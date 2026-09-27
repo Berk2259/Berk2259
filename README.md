@@ -6,6 +6,7 @@ Manisa Celal Bayar Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencis
 - 📱 Flutter ile kullanıcı odaklı mobil uygulamalar geliştiriyorum
 - 🛠️ Backend tarafında Python, Java ve PostgreSQL kullanıyorum
 - 💼 Dijital Arı'da 1 yıl stajyerlik yaptım
+- 🌍 Erasmus programıyla Polonya'da eğitim aldım
 - 📫 Bana ulaşmak için: [LinkedIn](https://www.linkedin.com/in/berk-altay-46052a374/) · [E-posta](mailto:berkaltay3435@gmail.com)
 - 🔗 [Website](https://berkaltay.com/)
 - 📍 Tekirdağ · İzmir · Manisa, Türkiye
@@ -21,6 +22,45 @@ Manisa Celal Bayar Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencis
 <td align="center"><img src="https://skillicons.dev/icons?i=dart,java,python,ts" height="40" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=postgres,firebase,supabase" height="40" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,bitbucket,wordpress,vercel" height="40" /></td>
+</tr>
+</table>
+
+<br/>
+
+### 📌 Öne Çıkan Projeler
+
+<table width="100%">
+<tr>
+<td width="56" align="center" valign="middle"><h1>01</h1></td>
+<td width="770" valign="middle">
+
+🟣 **Portfolio**
+<br/><sub>Next.js ve Supabase ile geliştirdiğim kişisel CV ve portfolyo sitem. Eğitim, deneyim, projeler ve teknik yeteneklerimi tek bir yerde sergiliyor; kendi yazdığım admin panelinden yönetiliyor. Responsive tasarım sayesinde her cihazda sorunsuz çalışıyor. Vercel üzerinden deploy edildi.</sub>
+
+</td>
+<td width="130" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=nextjs,supabase,ts" height="32" /></td>
+</tr>
+<tr><td colspan="3"><hr/></td></tr>
+<tr>
+<td width="56" align="center" valign="middle"><h1>02</h1></td>
+<td width="770" valign="middle">
+
+🟢 **LitFlow**
+<br/><sub>LitFlow, edebi sözler, şiirler ve kısa düşünce metinlerini keşfetmeyi ve saklamayı sağlayan modern bir Flutter uygulamasıdır. Kullanıcılar günlük ilham verici sözleri görüntüleyebilir, favorilerine ekleyebilir ve kendi edebi koleksiyonlarını oluşturabilir.</sub>
+
+</td>
+<td width="130" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=flutter,dart" height="32" /></td>
+</tr>
+<tr><td colspan="3"><hr/></td></tr>
+<tr>
+<td width="56" align="center" valign="middle"><h1>03</h1></td>
+<td width="770" valign="middle">
+
+🟠 **Price Tracker Bot**
+<br/><sub>Admin panelden yönetilen, çok müşterili ve kategorili fiyat takip sistemi. Fiyat değişimlerinde Telegram üzerinden bildirim gönderir. Panel Next.js, bot Python ile yazıldı, veritabanı Supabase kullanıyor.</sub>
+
+</td>
+<td width="130" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=nextjs,python,supabase" height="32" /></td>
 </tr>
 </table>
 
