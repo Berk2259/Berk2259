@@ -11,8 +11,6 @@ Manisa Celal Bayar Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencis
 - 🔗 [Website](https://berkaltay.com/)
 - 📍 Tekirdağ · İzmir · Manisa, Türkiye
 
-<br/>
-
 ### 🧩 Teknolojiler
 
 <table>
@@ -24,8 +22,6 @@ Manisa Celal Bayar Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencis
 <td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,bitbucket,wordpress,vercel" height="40" /></td>
 </tr>
 </table>
-
-<br/>
 
 ### 📌 Öne Çıkan Projeler
 
@@ -63,8 +59,6 @@ Manisa Celal Bayar Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencis
 <td width="130" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=nextjs,python,supabase" height="32" /></td>
 </tr>
 </table>
-
-<br/>
 
 ### 📊 Katkı Geçmişi
 
