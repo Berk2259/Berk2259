@@ -52,7 +52,7 @@ Manisa Celal Bayar Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencis
 <td width="56" align="center" valign="middle"><h1>03</h1></td>
 <td width="770" valign="middle">
 
-🟠 **Price Tracker Bot**
+🟠 **Cheapo**
 <br/><sub>Admin panelden yönetilen, çok müşterili ve kategorili fiyat takip sistemi. Fiyat değişimlerinde Telegram üzerinden bildirim gönderir. Panel Next.js, bot Python ile yazıldı, veritabanı Supabase kullanıyor.</sub>
 
 </td>
